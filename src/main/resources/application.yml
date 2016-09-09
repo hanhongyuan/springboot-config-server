@@ -10,4 +10,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jantoniucci/archaius-config
+          uri: https://github.com/wesleymelo/springboot-config-server
